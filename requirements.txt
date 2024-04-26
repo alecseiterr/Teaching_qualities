@@ -1,0 +1,6 @@
+pytube
+vosk
+pydub
+librosa
+transformers
+protobuf==3.20.1
