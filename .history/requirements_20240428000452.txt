@@ -1,0 +1,13 @@
+pandas
+openpyxl
+flask
+langchain
+llama-cpp-python
+langchain-community
+numpy
+matplotlib
+fastapi
+uvicorn
+python-multipart
+matplotlib
+PyQt6

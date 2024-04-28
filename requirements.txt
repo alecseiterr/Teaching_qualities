@@ -1,0 +1,11 @@
+pandas
+openpyxl
+langchain
+llama-cpp-python
+langchain-community
+numpy
+matplotlib
+uvicorn
+python-multipart
+matplotlib
+PyQt6
